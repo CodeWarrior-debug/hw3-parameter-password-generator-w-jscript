@@ -226,3 +226,4 @@ if (nextTag === true) {
     var secondTag = document.createElement(secondTagName);
     secondTag.textContent = "This is our second tag via prompts, it's a " + secondTagName + ".";
     document.body.appendChild(secondTag);
+  }}
