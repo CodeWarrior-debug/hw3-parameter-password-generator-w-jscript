@@ -1,24 +1,25 @@
-![Logo](https://github.com/CodeWarrior-debug/hw2-landing-jobs-with-awesome-css/blob/main/Assets/images/Web%20Dev%20Headshot%20Pre.jpg)
+![Logo](https://github.com/CodeWarrior-debug/hw3-parameter-password-generator-w-jscript/blob/main/Assets/Lock-Icon.png)
 
 # # hw3-parameter-password-generator-w-jscript
-> This is a website where I display a work portfolio and information about me for potential employers. This was the second UNCC coding bootcamp exercise, focusing on CSS. Writing the CSS from scratch was a major challenge as it is far more inter-connected than the VBA and html I had worked with before. In the process, I learned 1) best practices for using classes as opposed to semantic tags, 2) the importance of using sizing percentages instead of fixed px for smaller screens and media devices, and 3) the helpfulness of wireframing. 
+> This is a password generator which a user can set their own preferred length and content settings for. My 3rd UNCC web dev bootcamp assignment, it went well - I like Javascript a lot better than HTML or CSS. In the process I used the debugging console in Chrome DevTools, which I really think should be demo'd in class. There were many learnings about JavaScript quirks - variables being case sensitive, the replace function only replacing one item in a string by default, the built in variable incr/decr-ementer with ++ and --. Javascript will be one of my favorite languages I'm sure.
 
 ## Preview
-![Page Preview](https://github.com/CodeWarrior-debug/hw2-landing-jobs-with-awesome-css/blob/main/Assets/images/preview.jpg)
+![Page Preview](https://github.com/CodeWarrior-debug/hw3-parameter-password-generator-w-jscript/blob/main/Assets/Password-Generator-Preview.png)
 
 ## Development Tasks Performed
-- Made all links usable.
-- Adopted my own style of using display:block; along with display:flex.
-- Resized pictures to initially match appropriate shapes.
+- Wrote approximately 150 lines of javascript code.
+- Moved from a method of using a multiselect list of password settings to using confirm prompts.
+- Added validation tests that were not "canned," notifying of problems through alerts.
+- Used modulus to hit the exact number of chosen characters when the chosen number did not divide evenly into the number of settings selected.
 - ...And Many More...
 
 ## Contributing
->I'd be interested in suggestions on how to make this more impactful to potential employers (asides from linking better work samples).
+>Please don't contribute to this, use LastPass instead!!!
 
 ## Links
 
-- View Page (Github Pages link): https://codewarrior-debug.github.io/hw2-landing-jobs-with-awesome-css/
-- Repository: https://github.com/CodeWarrior-debug/hw2-landing-jobs-with-awesome-css
+- View Page (Github Pages link): https://codewarrior-debug.github.io/hw3-parameter-password-generator-w-jscript/
+- Repository: https://github.com/CodeWarrior-debug/hw3-parameter-password-generator-w-jscript
 
 ## Licensing
 
@@ -26,9 +27,7 @@ This project's contents are unlicensed.
 
 ## Credits
 
--Trilogy Education Services
--Medium.com
--joydeepdeb.com
--css-tricks.com
--w3schools.com
--tutorialrepublic.com
+- Trilogy Education Services
+- Dmitri Pavlutin
+- StackOverflow, especially question 3943772
+- w3schools.com
